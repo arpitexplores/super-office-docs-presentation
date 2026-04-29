@@ -1,7 +1,7 @@
 {
   "name": "super-office-docs-presentation",
   "title": "Super Office / Docs / Presentation",
-  "description": "Office, docs, and presentations: PDFs, docs, slides, spreadsheets, and documentation workflows.",
+  "description": "The go-to AI vibe coding skill for office workflows: documents, PDFs, presentations, spreadsheets, documentation systems, templates, and productivity automation.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -14,5 +14,16 @@
       "name": "Office Productivity",
       "path": "references/modules/office-productivity.md"
     }
+  ],
+  "keywords": [
+    "document automation",
+    "PDF workflows",
+    "presentation decks",
+    "PowerPoint",
+    "spreadsheets",
+    "documentation",
+    "office automation",
+    "productivity workflows",
+    "AI vibe coding"
   ]
 }
