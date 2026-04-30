@@ -2,7 +2,7 @@
   "name": "super-office-docs-presentation",
   "title": "Super Office / Docs / Presentation",
   "description": "The go-to AI vibe coding skill for office workflows: documents, PDFs, presentations, spreadsheets, documentation systems, templates, and productivity automation.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
